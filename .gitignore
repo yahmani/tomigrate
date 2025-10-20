@@ -74,6 +74,6 @@ $RECYCLE.BIN/
 **/flowDefinitions/**
 **/staticresources/**
 **/documents/**
-#**/installedPackages/**
-#**/dashboards/**
-#**/reports/**
+**/installedPackages/**
+**/dashboards/**
+**/reports/**
